@@ -8,7 +8,7 @@ To install GreetingsApp on your Linux system, follow these steps:
 
 1. **Download the Installer Script:**
    ```bash
-   wget https://raw.githubusercontent.com/yourusername/GreetingsApp/master/install.sh
+   wget https://raw.githubusercontent.com/ranaitsan123/greeting_project/master/install.sh
    ```
 
 2. **Make the Installer Script Executable:**
