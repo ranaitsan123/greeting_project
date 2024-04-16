@@ -16,4 +16,3 @@ sudo mv greetings /usr/local/bin/
 
 # Done
 echo "GreetingsApp installed successfully. You can now use 'greetings' command to run it."
-
