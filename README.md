@@ -11,19 +11,13 @@ GreetingsApp is a simple Java project that provides personalized greetings throu
    cd greeting_project
    ```
 
-2. **Download the Installer Script:**
-
-   ```bash
-   wget https://raw.githubusercontent.com/ranaitsan123/greeting_project/master/install.sh
-   ```
-
-3. **Make the Installer Executable:**
+2. **Make the Installer Executable:**
 
    ```bash
    chmod +x install.sh
    ```
 
-4. **Run the Installer:**
+3. **Run the Installer:**
 
    ```bash
    ./install.sh
